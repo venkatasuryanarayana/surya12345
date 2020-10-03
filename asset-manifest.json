@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/surya12345/static/css/main.5f361e03.chunk.css",
+    "main.js": "/surya12345/static/js/main.747041f8.chunk.js",
+    "main.js.map": "/surya12345/static/js/main.747041f8.chunk.js.map",
+    "runtime-main.js": "/surya12345/static/js/runtime-main.4d5adecb.js",
+    "runtime-main.js.map": "/surya12345/static/js/runtime-main.4d5adecb.js.map",
+    "static/js/2.8aaac6e4.chunk.js": "/surya12345/static/js/2.8aaac6e4.chunk.js",
+    "static/js/2.8aaac6e4.chunk.js.map": "/surya12345/static/js/2.8aaac6e4.chunk.js.map",
+    "index.html": "/surya12345/index.html",
+    "precache-manifest.0a2aa82928e17cba37e0654f4b9ff292.js": "/surya12345/precache-manifest.0a2aa82928e17cba37e0654f4b9ff292.js",
+    "service-worker.js": "/surya12345/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/surya12345/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8aaac6e4.chunk.js.LICENSE.txt": "/surya12345/static/js/2.8aaac6e4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/surya12345/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d5adecb.js",
+    "static/js/2.8aaac6e4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.747041f8.chunk.js"
+  ]
+}
